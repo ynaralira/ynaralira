@@ -1,3 +1,3 @@
-💕Estudante de Tecnologia de Sistemas para Internet 1/5
-Brasília - DF
+Estudante de Tecnologia de Sistemas para Internet <strong>1/5</strong><br>
+Brasília - <strong>DF</strong>
 
