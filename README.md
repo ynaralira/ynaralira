@@ -14,7 +14,7 @@ Brasília - <strong>DF</strong> <br><br>
 <img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35pm"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40pm"></img>
 <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="50pm"></img>
-<img src="https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg" width="50pm"></img>
+<img src="[https://ensinado.com.br/wp-content/uploads/2021/06/java_logo_640.jpg](https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/javalogo.png)" width="50pm"></img>
 <br>
 #### Eterna Pesquisadora e aluna da Tecnologia! 💖
 
