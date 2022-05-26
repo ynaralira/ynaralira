@@ -4,7 +4,7 @@ Brasília - <strong>DF</strong> <br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/onetap/?next=%2F)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ynara-lira-ventura-797a341b7/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfTPnFdC2xBQegg7aBZuDGw)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ynara_ventura)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ynara_dev)
 <br><br>
 
 ![ynaralira GitHub stats](https://github-readme-stats.vercel.app/api?username=ynaralira&show_icons=true&theme=radical)
