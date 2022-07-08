@@ -1,7 +1,7 @@
 ### Seja bem vindo(a) ao meu perfil! Me chamo Ynara ❤️
 Sou Estudante de Tecnologia de Sistemas para Internet <strong>3/5</strong><br>
 Brasília - <strong>DF</strong> <br><br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="100%"></img>
+<img src="capa.png" width="100%"></img>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/onetap/?next=%2F)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ynara-lira-ventura-797a341b7/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfTPnFdC2xBQegg7aBZuDGw)
