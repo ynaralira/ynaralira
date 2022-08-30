@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFDr-OEQOrffg/profile-displaybackgroundimage-shrink_350_1400/0/1655234071569?e=1666828800&v=beta&t=eJWNvgmyS692axRs-cgzOr2EcYCK6WgTqr5uLV8iauM"></img>
+
 ### Seja bem vindo(a) ao meu perfil! Me chamo Ynara ❤️
 Sou Estudante de Tecnologia de Sistemas para Internet <strong>3/5</strong><br>
 Brasília - <strong>DF</strong> <br><br>
