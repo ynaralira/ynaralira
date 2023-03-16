@@ -1,5 +1,5 @@
 
-### Seja bem vindo(a) ao meu perfil! Me chamo Ynara ❤️
+### Seja bem vindo(a) ao meu perfil! ❤️
 Sou Estudante de Tecnologia de Sistemas para Internet <strong>4/5</strong><br>
 Brasília - <strong>DF</strong> <br><br>
 <br>
