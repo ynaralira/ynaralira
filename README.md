@@ -17,6 +17,7 @@ Brasília - <strong>DF</strong> <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="40pm"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50pm"></img>
 <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="50pm"></img>
+<img src="[https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png)" width="50pm"></img>
 <br>
 #### Eterna Pesquisadora e aluna da Tecnologia! 💖
 
