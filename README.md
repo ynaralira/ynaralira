@@ -20,7 +20,7 @@ Brasília - <strong>DF</strong> <br><br>
 ## Tecnologias Back-end
 <img src="https://brasilcloud.com.br/wp-content/uploads/2015/06/php-logo.png" width="70pm"></img>
 <img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" width="70pm"></img>
-<img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" width="70pm"></img>
+<img src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" width="100pm"></img>
 <br>
 #### Eterna Pesquisadora e aluna da Tecnologia! 💖
 
