@@ -20,7 +20,7 @@ Brasília - <strong>DF</strong> <br><br>
 ## Tecnologias Back-end
 <img src="https://brasilcloud.com.br/wp-content/uploads/2015/06/php-logo.png" width="70pm"></img>
 <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" width="90pm"></img>
-<img src="https://o.remove.bg/downloads/82cd7f3b-c537-4959-9e62-64821bc2d551/image-removebg-preview.png" width="110pm"></img>
+<img src="https://o.remove.bg/downloads/82cd7f3b-c537-4959-9e62-64821bc2d551/image-removebg-preview.png" width="200pm"></img>
 <br>
 #### Eterna Pesquisadora e aluna da Tecnologia! 💖
 
