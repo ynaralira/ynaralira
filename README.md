@@ -18,6 +18,7 @@ Brasília - <strong>DF</strong> <br><br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="50pm"></img>
 <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" width="50pm"></img>
 <img src="https://brasilcloud.com.br/wp-content/uploads/2015/06/php-logo.png" width="50pm"></img>
+<img src="https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1.png" width="50pm"></img>
 <br>
 #### Eterna Pesquisadora e aluna da Tecnologia! 💖
 
