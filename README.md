@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Seja bem-vindo(a) ao meu perfil,  <strong>Me chamo Ynara</strong>.<br>
+  Sou Desenvolvedora Fullstack e estou graduando em Tecnologia de Sistemas para Internet no IFB.
 </p>
 
 <p align="left">
