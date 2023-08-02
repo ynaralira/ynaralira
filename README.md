@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 🦄 Tecnologias Front-end: ** React | Next | HTML & CSS **
+ 🦄 Tecnologias Front-end: ** React | Next | HTML & CSS | Bootstrap**
 </p>
 
 <p align="left">
