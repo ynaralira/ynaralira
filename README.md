@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Tecnologias Back-end: ** Php | Mysql | Java | Oracle **
+  ☕ Tecnologias Back-end: ** Php | Mysql | Java | Oracle **
 </p>
 
 
