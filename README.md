@@ -1,6 +1,6 @@
-# Oie devs 👋
+# Olá devs 👋
 
-Forjando Futuro, com cada linha de codigo.
+Sou uma desenvolvedora FullStack, Atualmente estou cursando graduação em Sistemas para Internet e estou ampliando meus conhecimentos em desenvolvimento de sistemas.
 
 ## Mais sobre mim
 
@@ -34,7 +34,7 @@ object **Ynara** {
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**Ynara** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
