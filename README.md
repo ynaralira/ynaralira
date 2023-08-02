@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- ✨ Seja bem-vindo(a) ao meu perfil,  <strong>Me chamo Ynara <strong>.</<br>
+ ✨ Seja bem-vindo(a) ao meu perfil,  <strong>Me chamo Ynara </strong>.</<br>
   Sou Desenvolvedora Fullstack e estou graduando em Tecnologia de Sistemas para Internet no IFB.
 </p>
 
