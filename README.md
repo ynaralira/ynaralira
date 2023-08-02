@@ -6,15 +6,17 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+ 🦄 Tecnologias Front-end: ** React | Next | HTML & CSS **
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Tecnologias Back-end: ** Php | Mysql | Java | Oracle**
 </p>
 
+
+
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso queira entrar em contato comigo, meus links: ⤵️
 </p>
 
 <p align="left">
