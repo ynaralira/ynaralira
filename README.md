@@ -1,6 +1,6 @@
 
 ### Seja bem vindo(a) ao meu perfil! ❤️
-Sou Desenvolvedora FullStack e Cursando Tecnologia de Sistemas para Internet <strong>5/5</strong><br>
+Sou Desenvolvedora FullStack e estou Cursando Tecnologia de Sistemas para Internet <strong>5/5</strong><br>
 Brasília - <strong>DF</strong> <br><br>
 <br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/onetap/?next=%2F)
