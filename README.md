@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
- 🦄 Tecnologias Front-end: ** React | Next | HTML & CSS | Bootstrap**
+ 🦄 Tecnologias Front-end: ** React | Next | HTML & CSS **
 </p>
 
 <p align="left">
-  💼 Tecnologias Back-end: ** Php | Mysql | Java | Oracle**
+  💼 Tecnologias Back-end: ** Php | Mysql | Java | Oracle **
 </p>
 
 
