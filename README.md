@@ -7,14 +7,13 @@ Sou uma desenvolvedora FullStack e atualmente estou cursando graduação em Sist
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```php
-Public class **Ynara** {
- $name = "Ynara Lira Ventura"
- $acknowledgements = "Desenvolvedora FullStack"
-
- $primarySkillset = "ALGUMAS HABILIDADES"
- $languages = listOf("Php", "Next", "React", "JavaScript", "Mysql", "Java", "Oracle" )
-
+Public Class Ynara {
+    public $name = "Ynara Lira Ventura";
+    public $acknowledgements = "Desenvolvedora FullStack";
+    public $primarySkillset = "ALGUMAS HABILIDADES";
+    public $languages = array("Php", "Next", "React", "JavaScript", "Mysql", "Java", "Oracle");
 }
+
 ```
 
 ## Linguagens e ferramentas
