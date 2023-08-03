@@ -7,13 +7,28 @@ Sou uma desenvolvedora FullStack e atualmente estou cursando graduação em Sist
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```php
-public class Ynara {
-    public $name = "Ynara Lira Ventura";
-    public $acknowledgements = "Desenvolvedora FullStack";
-    public $primarySkillset = "ALGUMAS HABILIDADES";
-    public $languages = array("Php", "Next", "React", "JavaScript", "Mysql", "Java", "Oracle");
-}
+<?php
 
+  class YnaraSingleton {
+
+    private static $instance;
+
+    private __construct () {
+      $this->call_me = 'Ynara Ventura';
+      $this->code_name = 'γᴧν';
+      $this->born_date = date('07-06-2002');
+      $this->skills = array_combine([∑, ∞], ['PHP', 'CSS', 'NextJS', 'React', 'JavaScript']);
+      $this->about = 'FullStack Developer';
+    }
+
+    public static function get_instance ($born_date) {
+      if (empty($this->instance))
+        $this->instance = new YnaraSingleton();
+      // return the single instance at all
+      return $this->instance;
+    }
+
+  }
 
 ```
 
