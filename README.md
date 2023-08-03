@@ -22,9 +22,10 @@ Sou uma desenvolvedora FullStack e atualmente estou cursando graduação em Sist
     }
 
     public static function get_instance ($born_date) {
-      if (empty($this->instance))
-        $this->instance = new YnaraSingleton();
-      return $this->instance;
+     if (empty(self::$instance))
+        self::$instance = new YnaraSingleton();
+      // retorne a unica instancia
+      return self::instance;
     }
 
   }
