@@ -43,9 +43,9 @@ Sou uma desenvolvedora FullStack e atualmente estou cursando graduação em Sist
 
 
 [website]: https://codedev.ga/
-[youtube]: https://www.youtube.com/user/https://www.youtube.com/channel/UCfTPnFdC2xBQegg7aBZuDGw/
-[instagram]: https://www.instagram.com/https://www.instagram.com/ynara_dev/
-[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/ynara-lira-ventura-797a341b7/
+[youtube]: https://www.youtube.com/channel/UCfTPnFdC2xBQegg7aBZuDGw/
+[instagram]: https://www.instagram.com/ynara_dev/
+[linkedin]: https://www.linkedin.com/in/ynara-lira-ventura-797a341b7/
 
 
 ## Rede sociais
