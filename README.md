@@ -34,7 +34,6 @@ public class Ynara {
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 
-<br>
 
 ## Rede sociais
 
