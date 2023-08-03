@@ -50,7 +50,7 @@ Sou uma desenvolvedora FullStack e atualmente estou cursando graduação em Sist
 
 ## Rede sociais
 
-🏡 [Website][website] **|**
+🏡 [Meu site][website] **|**
 📺 [Youtube][youtube] **|**
 📷 [Instagram][instagram] **|**
 👔 [LinkedIn][linkedin]
