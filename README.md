@@ -1,6 +1,6 @@
 # Olá devs 👋
 
-Sou uma desenvolvedora FullStack e atualmente estou cursando graduação em Sistemas para Internet  e ampliando meus conhecimentos em desenvolvimento de sistemas.
+Sou programadora de Sistemas de Informação, com graduação em Sistemas para Internet, e estou ampliando meus conhecimentos em desenvolvimento de sistemas.
 
 ## Mais sobre mim
 
