@@ -1,6 +1,6 @@
 # Olá devs 👋
 
-Sou programadora de Sistemas de Informação, com graduação em Sistemas para Internet, e estou ampliando meus conhecimentos em desenvolvimento de sistemas.
+Sou Desenvolvedora Full-Stack, com formação em Sistemas para Internet, e estou ampliando meus conhecimentos em desenvolvimento de sistemas.
 
 ## Mais sobre mim
 
