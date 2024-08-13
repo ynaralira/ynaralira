@@ -2,10 +2,6 @@
 
 Sou Desenvolvedora Full-Stack, com formação em Sistemas para Internet, e estou ampliando meus conhecimentos em desenvolvimento de sistemas.
 
-## Mais sobre mim
-
-<img align="right" width="300" src="Ynara.png" />
-
 ```php
 <?php
 
