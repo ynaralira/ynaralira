@@ -1,9 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! 🌟
 
 Meu nome é **Ynara** e sou **Desenvolvedora Full Stack** com formação em **Sistemas para Internet** e Influenciadora nas horas vagas. 
-
-Tenho experiência em criar soluções completas para aplicações web, utilizando uma variedade de tecnologias e ferramentas para garantir que os projetos atendam às necessidades dos usuários de forma eficiente e inovadora.
-
 ## Linguagens e ferramentas
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" src="https://static-00.iconduck.com/assets.00/laravel-icon-995x1024-dk77ahh4.png"></code>
