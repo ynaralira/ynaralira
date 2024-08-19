@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil! 🌟
 
-Meu nome é **Ynara** e sou **Desenvolvedora Full-Stack** com formação em **Sistemas para Internet**. 
+Meu nome é **Ynara** e sou **Desenvolvedora Full Stack** com formação em **Sistemas para Internet**. 
 
 Tenho experiência em criar soluções completas para aplicações web, utilizando uma variedade de tecnologias e ferramentas para garantir que os projetos atendam às necessidades dos usuários de forma eficiente e inovadora.
 
