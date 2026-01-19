@@ -24,7 +24,7 @@
 ?>
 
 ```
-[website]: https://ynaralira.github.io/portifolio-ynara/](https://www.ynaradev.com.br/
+[website]: https://www.ynaradev.com.br
 [youtube]: https://www.youtube.com/channel/UCfTPnFdC2xBQegg7aBZuDGw/
 [instagram]: https://www.instagram.com/ynara_dev/
 [linkedin]: https://www.linkedin.com/in/ynara-lira-ventura-797a341b7/
