@@ -17,7 +17,6 @@
     public static function get_instance ($born_date) {
      if (empty(self::$instance))
         self::$instance = new YnaraSingleton();
-      // retorna a unica instancia
       return self::instance;
     }
 
