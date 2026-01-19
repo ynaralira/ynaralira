@@ -10,8 +10,8 @@
       $this->call_me = 'Ynara Ventura';
       $this->code_name = 'γᴧν';
       $this->born_date = date('07-06-2002');
-      $this->skills = array_combine([∑, ∞], ['PHP', 'CSS', 'NextJS', 'React', 'JavaScript']);
-      $this->about = 'FullStack Developer';
+      $this->skills = array_combine([∑, ∞], ['PHP', 'React', 'JavaScript', 'N8N', 'Python','Flask']);
+      $this->about = 'Software Enginner';
     }
 
     public static function get_instance ($born_date) {
